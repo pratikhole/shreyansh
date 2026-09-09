@@ -1,0 +1,124 @@
+name: ExcelR Website Monitor
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    # Runs every 6 hours
+    - cron: "0 */6 * * *"
+
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Get repository files
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. Install Python
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      # 3. Install crawler dependencies
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # 4. Run website monitor
+      - name: Run ExcelR monitor
+        env:
+          BASE_URL: "https://www.excelr.com/"
+          SITEMAP_URL: "https://www.excelr.com/sitemap.xml"
+          USER_AGENT: "WebsiteAudit/1.0"
+          DATABASE: "monitor.db"
+          SNAPSHOT_DIR: "snapshots"
+          MAX_CONCURRENCY: "8"
+          REQUEST_TIMEOUT: "30"
+          REQUEST_INTERVAL_SECONDS: "0.15"
+          MAX_RETRIES: "3"
+        run: |
+          python monitor.py
+
+      # 5. Generate dashboard data
+      - name: Prepare dashboard data
+        run: |
+          mkdir -p docs
+          python - <<'PY'
+          import sqlite3
+          import json
+          import os
+
+          db = sqlite3.connect("monitor.db")
+          db.row_factory = sqlite3.Row
+
+          runs = db.execute("""
+              SELECT *
+              FROM runs
+              ORDER BY id DESC
+              LIMIT 20
+          """).fetchall()
+
+          changes = db.execute("""
+              SELECT *
+              FROM changes
+              ORDER BY id DESC
+              LIMIT 500
+          """).fetchall()
+
+          failures = db.execute("""
+              SELECT *
+              FROM failures
+              ORDER BY id DESC
+              LIMIT 500
+          """).fetchall()
+
+          pages = db.execute("""
+              SELECT COUNT(*) AS count
+              FROM pages
+          """).fetchone()
+
+          data = {
+              "total_pages": pages["count"],
+              "runs": [dict(x) for x in runs],
+              "changes": [dict(x) for x in changes],
+              "failures": [dict(x) for x in failures],
+          }
+
+          with open(
+              "docs/data.json",
+              "w",
+              encoding="utf-8"
+          ) as f:
+              json.dump(
+                  data,
+                  f,
+                  ensure_ascii=False,
+                  indent=2
+              )
+
+          db.close()
+          PY
+
+      # 6. Commit updated monitoring data
+      - name: Save monitoring data
+        run: |
+          git config user.name "Website Monitor"
+          git config user.email "actions@github.com"
+
+          git add monitor.db snapshots docs/data.json || true
+
+          git diff --cached --quiet || git commit -m "Update website monitoring data"
+
+          git push
