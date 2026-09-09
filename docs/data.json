@@ -1,0 +1,4051 @@
+{
+  "total_pages": 3418,
+  "runs": [
+    {
+      "id": 1,
+      "started_at": "2026-09-09T18:55:28.619877+00:00",
+      "finished_at": "2026-09-09T19:28:56.849456+00:00",
+      "discovered": 3802,
+      "successful": 3418,
+      "new_pages": 0,
+      "changed_pages": 0,
+      "removed_pages": 0,
+      "failed_pages": 403,
+      "duration_seconds": 2008.233394247,
+      "status": "SUCCESS"
+    }
+  ],
+  "changes": [],
+  "failures": [
+    {
+      "id": 403,
+      "run_id": 1,
+      "url": "https://www.excelr.com/testimonials/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:28:52.397395+00:00"
+    },
+    {
+      "id": 402,
+      "run_id": 1,
+      "url": "https://www.excelr.com/terms-and-conditions-for-job-interview-guarantee-program/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:28:47.512425+00:00"
+    },
+    {
+      "id": 401,
+      "run_id": 1,
+      "url": "https://www.excelr.com/internet-of-things/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:28:47.002852+00:00"
+    },
+    {
+      "id": 400,
+      "run_id": 1,
+      "url": "https://www.excelr.com/terms/",
+      "status": 404,
+      "error_type": "http_404",
+      "message": "HTTP status 404",
+      "retries": 0,
+      "created_at": "2026-09-09T19:28:46.603038+00:00"
+    },
+    {
+      "id": 399,
+      "run_id": 1,
+      "url": "https://www.excelr.com/industrial-revolution-4-0/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:28:46.601286+00:00"
+    },
+    {
+      "id": 398,
+      "run_id": 1,
+      "url": "https://www.excelr.com/mock-interview/data-science-interview-questions/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:28:46.480880+00:00"
+    },
+    {
+      "id": 397,
+      "run_id": 1,
+      "url": "https://www.excelr.com/tableau/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:28:46.259819+00:00"
+    },
+    {
+      "id": 396,
+      "run_id": 1,
+      "url": "https://www.excelr.com/in-media/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:28:46.123118+00:00"
+    },
+    {
+      "id": 395,
+      "run_id": 1,
+      "url": "https://www.excelr.com/statistical-analysis/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:28:46.014203+00:00"
+    },
+    {
+      "id": 394,
+      "run_id": 1,
+      "url": "https://www.excelr.com/google-cloud-platform-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:28:45.822318+00:00"
+    },
+    {
+      "id": 393,
+      "run_id": 1,
+      "url": "https://www.excelr.com/forecasting/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:28:45.140495+00:00"
+    },
+    {
+      "id": 392,
+      "run_id": 1,
+      "url": "https://www.excelr.com/csm-certified-scrum-master/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:28:45.013575+00:00"
+    },
+    {
+      "id": 391,
+      "run_id": 1,
+      "url": "https://www.excelr.com/every-day-learning/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:28:44.893857+00:00"
+    },
+    {
+      "id": 390,
+      "run_id": 1,
+      "url": "https://www.excelr.com/business-analytics/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:28:44.679581+00:00"
+    },
+    {
+      "id": 389,
+      "run_id": 1,
+      "url": "https://www.excelr.com/cloud-computing-certification-course-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:28:44.461805+00:00"
+    },
+    {
+      "id": 388,
+      "run_id": 1,
+      "url": "https://www.excelr.com/augmented-reality-ar-virtual-reality-vr/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:28:44.319623+00:00"
+    },
+    {
+      "id": 387,
+      "run_id": 1,
+      "url": "https://www.excelr.com/amazon-web-services-aws/",
+      "status": 404,
+      "error_type": "http_404",
+      "message": "HTTP status 404",
+      "retries": 0,
+      "created_at": "2026-09-09T19:28:43.947418+00:00"
+    },
+    {
+      "id": 386,
+      "run_id": 1,
+      "url": "https://www.excelr.com/workforce-analytics-course-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:28:41.368033+00:00"
+    },
+    {
+      "id": 385,
+      "run_id": 1,
+      "url": "https://www.excelr.com/why-to-choose-analytics-as-your-career/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:28:41.242912+00:00"
+    },
+    {
+      "id": 384,
+      "run_id": 1,
+      "url": "https://www.excelr.com/what-is-sitecore-2/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:28:41.147693+00:00"
+    },
+    {
+      "id": 383,
+      "run_id": 1,
+      "url": "https://www.excelr.com/which-is-the-best-analytics-training-institute-in-hyderabad/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:28:41.047417+00:00"
+    },
+    {
+      "id": 382,
+      "run_id": 1,
+      "url": "https://www.excelr.com/webinars/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:28:40.945145+00:00"
+    },
+    {
+      "id": 381,
+      "run_id": 1,
+      "url": "https://www.excelr.com/various-components-of-ir-40-webinar/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:28:39.566191+00:00"
+    },
+    {
+      "id": 380,
+      "run_id": 1,
+      "url": "https://www.excelr.com/tools-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:28:39.470763+00:00"
+    },
+    {
+      "id": 379,
+      "run_id": 1,
+      "url": "https://www.excelr.com/veritas-course-certification-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:28:39.359756+00:00"
+    },
+    {
+      "id": 378,
+      "run_id": 1,
+      "url": "https://www.excelr.com/vulnerabilities-in-data-security-in-big-data-world/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:28:39.243865+00:00"
+    },
+    {
+      "id": 377,
+      "run_id": 1,
+      "url": "https://www.excelr.com/tibco-spotfire-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:28:39.145385+00:00"
+    },
+    {
+      "id": 376,
+      "run_id": 1,
+      "url": "https://www.excelr.com/testimonials/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:28:39.018133+00:00"
+    },
+    {
+      "id": 375,
+      "run_id": 1,
+      "url": "https://www.excelr.com/think-cell-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:28:34.296006+00:00"
+    },
+    {
+      "id": 374,
+      "run_id": 1,
+      "url": "https://www.excelr.com/the-perfect-four-the-collaboration-of-iot-big-data-and-cloud-computing-machine-learning/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:28:34.165539+00:00"
+    },
+    {
+      "id": 373,
+      "run_id": 1,
+      "url": "https://www.excelr.com/terms-and-conditions-for-job-interview-guarantee-program/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:28:34.020125+00:00"
+    },
+    {
+      "id": 372,
+      "run_id": 1,
+      "url": "https://www.excelr.com/temenos-training-program/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:28:33.912074+00:00"
+    },
+    {
+      "id": 371,
+      "run_id": 1,
+      "url": "https://www.excelr.com/technical-report-writing-course-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:28:33.703919+00:00"
+    },
+    {
+      "id": 370,
+      "run_id": 1,
+      "url": "https://www.excelr.com/telecom-analytics-course-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:28:33.523091+00:00"
+    },
+    {
+      "id": 369,
+      "run_id": 1,
+      "url": "https://www.excelr.com/techonologies/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:28:33.413111+00:00"
+    },
+    {
+      "id": 368,
+      "run_id": 1,
+      "url": "https://www.excelr.com/technical-courses/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:28:32.436392+00:00"
+    },
+    {
+      "id": 367,
+      "run_id": 1,
+      "url": "https://www.excelr.com/tableau/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:28:32.178375+00:00"
+    },
+    {
+      "id": 366,
+      "run_id": 1,
+      "url": "https://www.excelr.com/teamcity-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:28:31.993428+00:00"
+    },
+    {
+      "id": 365,
+      "run_id": 1,
+      "url": "https://www.excelr.com/stibo-development-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:28:08.377781+00:00"
+    },
+    {
+      "id": 364,
+      "run_id": 1,
+      "url": "https://www.excelr.com/student-referral-program/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:28:08.076354+00:00"
+    },
+    {
+      "id": 363,
+      "run_id": 1,
+      "url": "https://www.excelr.com/steinbeis-course-enrolment-form/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:28:07.953650+00:00"
+    },
+    {
+      "id": 362,
+      "run_id": 1,
+      "url": "https://www.excelr.com/statistical-analysis/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:28:07.748058+00:00"
+    },
+    {
+      "id": 361,
+      "run_id": 1,
+      "url": "https://www.excelr.com/solarwinds-orion-101-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:28:06.581264+00:00"
+    },
+    {
+      "id": 360,
+      "run_id": 1,
+      "url": "https://www.excelr.com/soft-skills-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:27:37.700625+00:00"
+    },
+    {
+      "id": 359,
+      "run_id": 1,
+      "url": "https://www.excelr.com/snowflake-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:27:37.578596+00:00"
+    },
+    {
+      "id": 358,
+      "run_id": 1,
+      "url": "https://www.excelr.com/social-media-and-business-intelligence-a-snapshot-of-the-real-world/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:27:37.441870+00:00"
+    },
+    {
+      "id": 357,
+      "run_id": 1,
+      "url": "https://www.excelr.com/six-sigma-master-black-belt-certification-training-kuala-lumpur-malaysia/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:27:37.264249+00:00"
+    },
+    {
+      "id": 356,
+      "run_id": 1,
+      "url": "https://www.excelr.com/six-sigma-master-black-belt-certification-training-hyderabad/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:27:37.129039+00:00"
+    },
+    {
+      "id": 355,
+      "run_id": 1,
+      "url": "https://www.excelr.com/six-sigma-master-black-belt-certification-training-in-bangalore/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:27:36.740428+00:00"
+    },
+    {
+      "id": 354,
+      "run_id": 1,
+      "url": "https://www.excelr.com/sisense-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:27:36.052234+00:00"
+    },
+    {
+      "id": 353,
+      "run_id": 1,
+      "url": "https://www.excelr.com/significance-of-pmp-certification-for-techies/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:27:35.873740+00:00"
+    },
+    {
+      "id": 352,
+      "run_id": 1,
+      "url": "https://www.excelr.com/service-portal/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:27:33.813776+00:00"
+    },
+    {
+      "id": 351,
+      "run_id": 1,
+      "url": "https://www.excelr.com/service-now/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:27:33.689179+00:00"
+    },
+    {
+      "id": 350,
+      "run_id": 1,
+      "url": "https://www.excelr.com/selenium-manual-software-testing-combo-course-in-pune/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:27:33.140612+00:00"
+    },
+    {
+      "id": 349,
+      "run_id": 1,
+      "url": "https://www.excelr.com/seo-services-jupiter/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:27:32.718762+00:00"
+    },
+    {
+      "id": 348,
+      "run_id": 1,
+      "url": "https://www.excelr.com/rust-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:27:07.094918+00:00"
+    },
+    {
+      "id": 347,
+      "run_id": 1,
+      "url": "https://www.excelr.com/sap-datasphere-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:27:06.967059+00:00"
+    },
+    {
+      "id": 346,
+      "run_id": 1,
+      "url": "https://www.excelr.com/ruby-cucumber-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:27:06.687417+00:00"
+    },
+    {
+      "id": 345,
+      "run_id": 1,
+      "url": "https://www.excelr.com/scholarship/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:27:06.436071+00:00"
+    },
+    {
+      "id": 344,
+      "run_id": 1,
+      "url": "https://www.excelr.com/scholarship-for-freshers-terms-and-conditions/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:27:06.293759+00:00"
+    },
+    {
+      "id": 343,
+      "run_id": 1,
+      "url": "https://www.excelr.com/refer-and-earn/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:27:05.529964+00:00"
+    },
+    {
+      "id": 342,
+      "run_id": 1,
+      "url": "https://www.excelr.com/red-hat-satellite-server-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:27:05.415681+00:00"
+    },
+    {
+      "id": 341,
+      "run_id": 1,
+      "url": "https://www.excelr.com/refer-a-friend/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:27:05.290700+00:00"
+    },
+    {
+      "id": 340,
+      "run_id": 1,
+      "url": "https://www.excelr.com/register/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:27:05.172020+00:00"
+    },
+    {
+      "id": 339,
+      "run_id": 1,
+      "url": "https://www.excelr.com/reading-utf-8-files-using-r/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:27:05.074214+00:00"
+    },
+    {
+      "id": 338,
+      "run_id": 1,
+      "url": "https://www.excelr.com/random-variables-video-tutorial/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:27:04.770426+00:00"
+    },
+    {
+      "id": 337,
+      "run_id": 1,
+      "url": "https://www.excelr.com/r-tool/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:27:03.837317+00:00"
+    },
+    {
+      "id": 336,
+      "run_id": 1,
+      "url": "https://www.excelr.com/qradar-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:27:03.644873+00:00"
+    },
+    {
+      "id": 335,
+      "run_id": 1,
+      "url": "https://www.excelr.com/professional-certification-in-big-data-analytics-in-kuala-lumpur-malaysia/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:26:13.235957+00:00"
+    },
+    {
+      "id": 334,
+      "run_id": 1,
+      "url": "https://www.excelr.com/project-management-national-conference-india-2017/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:24:53.032021+00:00"
+    },
+    {
+      "id": 333,
+      "run_id": 1,
+      "url": "https://www.excelr.com/project-monitoring-tools-in-agile-project-management-webinar/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:24:52.932091+00:00"
+    },
+    {
+      "id": 332,
+      "run_id": 1,
+      "url": "https://www.excelr.com/probability-distributions-video-tutorial/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:24:52.140083+00:00"
+    },
+    {
+      "id": 331,
+      "run_id": 1,
+      "url": "https://www.excelr.com/primavera-unifier-training-in-bangalore/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:24:52.037754+00:00"
+    },
+    {
+      "id": 330,
+      "run_id": 1,
+      "url": "https://www.excelr.com/primavera-p6-training-in-bangalore/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:24:51.916228+00:00"
+    },
+    {
+      "id": 329,
+      "run_id": 1,
+      "url": "https://www.excelr.com/primavera-p6-training-online/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:24:51.808619+00:00"
+    },
+    {
+      "id": 328,
+      "run_id": 1,
+      "url": "https://www.excelr.com/primavera-unifier/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:24:51.595277+00:00"
+    },
+    {
+      "id": 327,
+      "run_id": 1,
+      "url": "https://www.excelr.com/primavera-p6/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:24:51.456093+00:00"
+    },
+    {
+      "id": 326,
+      "run_id": 1,
+      "url": "https://www.excelr.com/primavera-unifier-training-hyderabad/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:24:51.322572+00:00"
+    },
+    {
+      "id": 325,
+      "run_id": 1,
+      "url": "https://www.excelr.com/primavera-p6-training-hyderabad/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:24:51.043309+00:00"
+    },
+    {
+      "id": 324,
+      "run_id": 1,
+      "url": "https://www.excelr.com/pmp-online-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:57.834322+00:00"
+    },
+    {
+      "id": 323,
+      "run_id": 1,
+      "url": "https://www.excelr.com/pmp-online-training-jeddah-saudiarabia/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:57.613374+00:00"
+    },
+    {
+      "id": 322,
+      "run_id": 1,
+      "url": "https://www.excelr.com/pmp-online-training-riyadh-saudiarabia/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:57.468830+00:00"
+    },
+    {
+      "id": 321,
+      "run_id": 1,
+      "url": "https://www.excelr.com/pmp-is-all-about-51049-the-winning-formula-for-you/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:56.839386+00:00"
+    },
+    {
+      "id": 320,
+      "run_id": 1,
+      "url": "https://www.excelr.com/pmp-mind-map/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:56.740147+00:00"
+    },
+    {
+      "id": 319,
+      "run_id": 1,
+      "url": "https://www.excelr.com/pmp-certification-training-project-management-course-in-kuala-lumpur-malaysia/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:56.586803+00:00"
+    },
+    {
+      "id": 318,
+      "run_id": 1,
+      "url": "https://www.excelr.com/playwright-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:53.525501+00:00"
+    },
+    {
+      "id": 317,
+      "run_id": 1,
+      "url": "https://www.excelr.com/pg-program-in-data-science-and-ai/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:53.300034+00:00"
+    },
+    {
+      "id": 316,
+      "run_id": 1,
+      "url": "https://www.excelr.com/palo-alto-course-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:52.976381+00:00"
+    },
+    {
+      "id": 315,
+      "run_id": 1,
+      "url": "https://www.excelr.com/otbi-reports-and-analytics-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:52.720536+00:00"
+    },
+    {
+      "id": 314,
+      "run_id": 1,
+      "url": "https://www.excelr.com/pentaho-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:52.592164+00:00"
+    },
+    {
+      "id": 313,
+      "run_id": 1,
+      "url": "https://www.excelr.com/our-franchises/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:52.468688+00:00"
+    },
+    {
+      "id": 312,
+      "run_id": 1,
+      "url": "https://www.excelr.com/oracle-11g-administration-and-management-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:51.668231+00:00"
+    },
+    {
+      "id": 311,
+      "run_id": 1,
+      "url": "https://www.excelr.com/online-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:51.444008+00:00"
+    },
+    {
+      "id": 310,
+      "run_id": 1,
+      "url": "https://www.excelr.com/ordinal-regression-webinar/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:51.346396+00:00"
+    },
+    {
+      "id": 309,
+      "run_id": 1,
+      "url": "https://www.excelr.com/one-year-certification-program-in-data-science/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:51.243780+00:00"
+    },
+    {
+      "id": 308,
+      "run_id": 1,
+      "url": "https://www.excelr.com/oracle-apex-certification-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:51.103716+00:00"
+    },
+    {
+      "id": 307,
+      "run_id": 1,
+      "url": "https://www.excelr.com/openstack-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:50.882381+00:00"
+    },
+    {
+      "id": 306,
+      "run_id": 1,
+      "url": "https://www.excelr.com/normal-distribution-video-tutorial/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:50.757161+00:00"
+    },
+    {
+      "id": 305,
+      "run_id": 1,
+      "url": "https://www.excelr.com/optimization/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:50.658604+00:00"
+    },
+    {
+      "id": 304,
+      "run_id": 1,
+      "url": "https://www.excelr.com/news-event-detail/why-to-choose-analytics-as-your-career/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:49.882788+00:00"
+    },
+    {
+      "id": 303,
+      "run_id": 1,
+      "url": "https://www.excelr.com/niche-technical-trainings/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:49.701422+00:00"
+    },
+    {
+      "id": 302,
+      "run_id": 1,
+      "url": "https://www.excelr.com/news/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:49.585602+00:00"
+    },
+    {
+      "id": 301,
+      "run_id": 1,
+      "url": "https://www.excelr.com/news-event-detail/vulnerabilities-in-data-security-in-big-data-world/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:49.489357+00:00"
+    },
+    {
+      "id": 300,
+      "run_id": 1,
+      "url": "https://www.excelr.com/news-event-detail/online-apssdc-programs-for-faculty-students/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:49.379666+00:00"
+    },
+    {
+      "id": 299,
+      "run_id": 1,
+      "url": "https://www.excelr.com/news-event-detail/project-management-national-conference-india-2017/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:49.184896+00:00"
+    },
+    {
+      "id": 298,
+      "run_id": 1,
+      "url": "https://www.excelr.com/news-event-detail/significance-of-pmp-certification-for-techies/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:49.069888+00:00"
+    },
+    {
+      "id": 297,
+      "run_id": 1,
+      "url": "https://www.excelr.com/news-event-detail/how-to-stand-out-from-the-crowd-in-your-workplace3/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:48.531557+00:00"
+    },
+    {
+      "id": 296,
+      "run_id": 1,
+      "url": "https://www.excelr.com/news-event-detail/harness-the-power-of-web-analytics/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:48.342263+00:00"
+    },
+    {
+      "id": 295,
+      "run_id": 1,
+      "url": "https://www.excelr.com/news-event-detail/excelr-solutions-reports-on-the-importance-of-big-data/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:48.233509+00:00"
+    },
+    {
+      "id": 294,
+      "run_id": 1,
+      "url": "https://www.excelr.com/news-event-detail/explore-the-latest-happenings-in-the-space-of-data-analytics--wwwexcelrcom/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:48.044014+00:00"
+    },
+    {
+      "id": 293,
+      "run_id": 1,
+      "url": "https://www.excelr.com/news-event-detail/excelr-transforming-professionals-into-experts-in-analytics/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:47.932543+00:00"
+    },
+    {
+      "id": 292,
+      "run_id": 1,
+      "url": "https://www.excelr.com/news-event-detail/excelr-launches-course-on-analytics-with-curriculum-of-international-standards/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:47.812423+00:00"
+    },
+    {
+      "id": 291,
+      "run_id": 1,
+      "url": "https://www.excelr.com/news-event-detail/excelr-solutions-offers-the-highest-quality-training-programs-across-a-variety-of-disciplines/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:47.702394+00:00"
+    },
+    {
+      "id": 290,
+      "run_id": 1,
+      "url": "https://www.excelr.com/news-event-detail/excelr-solutions-also-includes-the-case-studies-which-will-only-ensure-that-aspirants-are-well-poised-to-zoom-start-their-careers-as-data-scientist/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:47.510788+00:00"
+    },
+    {
+      "id": 289,
+      "run_id": 1,
+      "url": "https://www.excelr.com/news-event-detail/excelr-is-ranked-by-deloitte-among-the-top-50-fastest-growing-technology-enabled-companies-for-the-second-time/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:47.297806+00:00"
+    },
+    {
+      "id": 288,
+      "run_id": 1,
+      "url": "https://www.excelr.com/news-event-detail/excelr-has-trained-more-than-10000-students-in-analytics/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:46.681806+00:00"
+    },
+    {
+      "id": 287,
+      "run_id": 1,
+      "url": "https://www.excelr.com/news-event-detail/data-science-helps-growth-in-software-sector/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:46.567752+00:00"
+    },
+    {
+      "id": 286,
+      "run_id": 1,
+      "url": "https://www.excelr.com/moogsoft-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:46.374426+00:00"
+    },
+    {
+      "id": 285,
+      "run_id": 1,
+      "url": "https://www.excelr.com/moments/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:46.249139+00:00"
+    },
+    {
+      "id": 284,
+      "run_id": 1,
+      "url": "https://www.excelr.com/news-event-detail/businesses-must-be-able-to-use-this-data-to-their-benefit-and-the-training-offered-through-this-provider-allows-them-to-do-so-announces-excelrcom/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:46.150688+00:00"
+    },
+    {
+      "id": 283,
+      "run_id": 1,
+      "url": "https://www.excelr.com/neo4j-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:46.034317+00:00"
+    },
+    {
+      "id": 282,
+      "run_id": 1,
+      "url": "https://www.excelr.com/news-event-detail/deloitte-technology-fast-50-india-2018-winner/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:45.915335+00:00"
+    },
+    {
+      "id": 281,
+      "run_id": 1,
+      "url": "https://www.excelr.com/netcool-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:45.710653+00:00"
+    },
+    {
+      "id": 280,
+      "run_id": 1,
+      "url": "https://www.excelr.com/mind-maps/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:44.902551+00:00"
+    },
+    {
+      "id": 279,
+      "run_id": 1,
+      "url": "https://www.excelr.com/mock-interview/category/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:44.807076+00:00"
+    },
+    {
+      "id": 278,
+      "run_id": 1,
+      "url": "https://www.excelr.com/mitre-defender-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:44.705815+00:00"
+    },
+    {
+      "id": 277,
+      "run_id": 1,
+      "url": "https://www.excelr.com/minitab/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:44.501439+00:00"
+    },
+    {
+      "id": 276,
+      "run_id": 1,
+      "url": "https://www.excelr.com/microsoft-project/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:44.296025+00:00"
+    },
+    {
+      "id": 275,
+      "run_id": 1,
+      "url": "https://www.excelr.com/mitre-att-ck-defender-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:44.179049+00:00"
+    },
+    {
+      "id": 274,
+      "run_id": 1,
+      "url": "https://www.excelr.com/microservices-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:18.685118+00:00"
+    },
+    {
+      "id": 273,
+      "run_id": 1,
+      "url": "https://www.excelr.com/masters-program-in-data-science-and-artificial-intelligence/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:18.462575+00:00"
+    },
+    {
+      "id": 272,
+      "run_id": 1,
+      "url": "https://www.excelr.com/masters-program-in-advanced-digital-marketing/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:18.090179+00:00"
+    },
+    {
+      "id": 271,
+      "run_id": 1,
+      "url": "https://www.excelr.com/marketing-analytics-course-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:23:17.380727+00:00"
+    },
+    {
+      "id": 270,
+      "run_id": 1,
+      "url": "https://www.excelr.com/lotus-notes-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:32.413053+00:00"
+    },
+    {
+      "id": 269,
+      "run_id": 1,
+      "url": "https://www.excelr.com/lombardi-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:32.162912+00:00"
+    },
+    {
+      "id": 268,
+      "run_id": 1,
+      "url": "https://www.excelr.com/learn-how-to-become-a-data-scientist/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:32.013910+00:00"
+    },
+    {
+      "id": 267,
+      "run_id": 1,
+      "url": "https://www.excelr.com/lan-guard-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:29.177759+00:00"
+    },
+    {
+      "id": 266,
+      "run_id": 1,
+      "url": "https://www.excelr.com/kubernetes-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:28.712297+00:00"
+    },
+    {
+      "id": 265,
+      "run_id": 1,
+      "url": "https://www.excelr.com/julia-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:28.178331+00:00"
+    },
+    {
+      "id": 264,
+      "run_id": 1,
+      "url": "https://www.excelr.com/kinaxis-certification-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:28.056452+00:00"
+    },
+    {
+      "id": 263,
+      "run_id": 1,
+      "url": "https://www.excelr.com/jira-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:27.847312+00:00"
+    },
+    {
+      "id": 262,
+      "run_id": 1,
+      "url": "https://www.excelr.com/istqb-certified-tester-test-automation-engineer-ct-tae-certification-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:27.717485+00:00"
+    },
+    {
+      "id": 261,
+      "run_id": 1,
+      "url": "https://www.excelr.com/itil-practitioner/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:27.595491+00:00"
+    },
+    {
+      "id": 260,
+      "run_id": 1,
+      "url": "https://www.excelr.com/jaspersoft-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:27.450284+00:00"
+    },
+    {
+      "id": 259,
+      "run_id": 1,
+      "url": "https://www.excelr.com/istqb-certified-tester-mobile-application-testing-ct-mat-certification-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:26.996507+00:00"
+    },
+    {
+      "id": 258,
+      "run_id": 1,
+      "url": "https://www.excelr.com/istqb-certified-tester-advanced-level-test-analyst-ctal-ta-certification-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:26.843982+00:00"
+    },
+    {
+      "id": 257,
+      "run_id": 1,
+      "url": "https://www.excelr.com/iot-boot-camp-with-cloud-platform-analytics-and-data-visualization/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:26.534278+00:00"
+    },
+    {
+      "id": 256,
+      "run_id": 1,
+      "url": "https://www.excelr.com/istb-certified-tester-performance-testing-ct-pt-certification-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:26.217247+00:00"
+    },
+    {
+      "id": 255,
+      "run_id": 1,
+      "url": "https://www.excelr.com/internet-of-things/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:25.951284+00:00"
+    },
+    {
+      "id": 254,
+      "run_id": 1,
+      "url": "https://www.excelr.com/hypothesis-testing-mind-map/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:22.530240+00:00"
+    },
+    {
+      "id": 253,
+      "run_id": 1,
+      "url": "https://www.excelr.com/imbalance-data/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:22.419056+00:00"
+    },
+    {
+      "id": 252,
+      "run_id": 1,
+      "url": "https://www.excelr.com/in-media/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:22.323422+00:00"
+    },
+    {
+      "id": 251,
+      "run_id": 1,
+      "url": "https://www.excelr.com/industrial-revolution-4-0/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:22.212643+00:00"
+    },
+    {
+      "id": 250,
+      "run_id": 1,
+      "url": "https://www.excelr.com/ibm-bluemix-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:22.028855+00:00"
+    },
+    {
+      "id": 249,
+      "run_id": 1,
+      "url": "https://www.excelr.com/hybris-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:21.904836+00:00"
+    },
+    {
+      "id": 248,
+      "run_id": 1,
+      "url": "https://www.excelr.com/hybris-corporate-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:21.222571+00:00"
+    },
+    {
+      "id": 247,
+      "run_id": 1,
+      "url": "https://www.excelr.com/harness-the-power-of-web-analytics/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:21.128798+00:00"
+    },
+    {
+      "id": 246,
+      "run_id": 1,
+      "url": "https://www.excelr.com/heat-lanrev-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:20.945422+00:00"
+    },
+    {
+      "id": 245,
+      "run_id": 1,
+      "url": "https://www.excelr.com/google-ai-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:20.825304+00:00"
+    },
+    {
+      "id": 244,
+      "run_id": 1,
+      "url": "https://www.excelr.com/google-cloud-platform-training-in-bangalore/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:20.700596+00:00"
+    },
+    {
+      "id": 243,
+      "run_id": 1,
+      "url": "https://www.excelr.com/how-to-stand-out-from-the-crowd-in-your-workplace3/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:20.606793+00:00"
+    },
+    {
+      "id": 242,
+      "run_id": 1,
+      "url": "https://www.excelr.com/guidewire-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:20.512288+00:00"
+    },
+    {
+      "id": 241,
+      "run_id": 1,
+      "url": "https://www.excelr.com/google-cloud-platform-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:20.261919+00:00"
+    },
+    {
+      "id": 240,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:19.515416+00:00"
+    },
+    {
+      "id": 239,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-visakhapatnam/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:19.319423+00:00"
+    },
+    {
+      "id": 238,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-vancouver-canada/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:19.048349+00:00"
+    },
+    {
+      "id": 237,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-victoria-canada/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:18.850472+00:00"
+    },
+    {
+      "id": 236,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-vietnam/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:18.590851+00:00"
+    },
+    {
+      "id": 235,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-vijayawada/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:18.398638+00:00"
+    },
+    {
+      "id": 234,
+      "run_id": 1,
+      "url": "https://www.excelr.com/golang-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:18.118080+00:00"
+    },
+    {
+      "id": 233,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-washington-district-of-columbia/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:17.975019+00:00"
+    },
+    {
+      "id": 232,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-trivandrum/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:14.858370+00:00"
+    },
+    {
+      "id": 231,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-united-kingdom/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:14.601519+00:00"
+    },
+    {
+      "id": 230,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-usa/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:14.408503+00:00"
+    },
+    {
+      "id": 229,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-trichy/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:14.131878+00:00"
+    },
+    {
+      "id": 228,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-vadodara/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:13.935007+00:00"
+    },
+    {
+      "id": 227,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-tumkur/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:13.733128+00:00"
+    },
+    {
+      "id": 226,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-toronto-canada/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:13.461961+00:00"
+    },
+    {
+      "id": 225,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-thane/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:13.264562+00:00"
+    },
+    {
+      "id": 224,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-thailand/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:04.156584+00:00"
+    },
+    {
+      "id": 223,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-texas/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:03.958869+00:00"
+    },
+    {
+      "id": 222,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-surat/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:03.685576+00:00"
+    },
+    {
+      "id": 221,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-sydney-australia/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:03.489517+00:00"
+    },
+    {
+      "id": 220,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-south-africa/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:03.290591+00:00"
+    },
+    {
+      "id": 219,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-seattle/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:03.019508+00:00"
+    },
+    {
+      "id": 218,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-solapur/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:02.821842+00:00"
+    },
+    {
+      "id": 217,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-singapore/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:22:02.531344+00:00"
+    },
+    {
+      "id": 216,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-satara/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:52.203701+00:00"
+    },
+    {
+      "id": 215,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-san-jose-california/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:52.007194+00:00"
+    },
+    {
+      "id": 214,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-san-diego/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:51.727883+00:00"
+    },
+    {
+      "id": 213,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-raigad/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:51.534107+00:00"
+    },
+    {
+      "id": 212,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-san-francisco-california/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:51.271659+00:00"
+    },
+    {
+      "id": 211,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-riyadh-saudi-arabia/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:51.072813+00:00"
+    },
+    {
+      "id": 210,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-raipur/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:50.790217+00:00"
+    },
+    {
+      "id": 209,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-quebec-city-canada/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:50.585645+00:00"
+    },
+    {
+      "id": 208,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-pune/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:35.744585+00:00"
+    },
+    {
+      "id": 207,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-powai/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:35.468087+00:00"
+    },
+    {
+      "id": 206,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-pakistan/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:35.271783+00:00"
+    },
+    {
+      "id": 205,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-patna/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:34.995635+00:00"
+    },
+    {
+      "id": 204,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-philippines/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:34.795258+00:00"
+    },
+    {
+      "id": 203,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-phoenix-city/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:34.514860+00:00"
+    },
+    {
+      "id": 202,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-poland/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:34.323103+00:00"
+    },
+    {
+      "id": 201,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-perth-australia/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:34.124180+00:00"
+    },
+    {
+      "id": 200,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-noida/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:33.413551+00:00"
+    },
+    {
+      "id": 199,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-new-zealand/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:33.215136+00:00"
+    },
+    {
+      "id": 198,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-netherlands/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:32.956817+00:00"
+    },
+    {
+      "id": 197,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-nigeria/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:32.765956+00:00"
+    },
+    {
+      "id": 196,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-new-york/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:32.497937+00:00"
+    },
+    {
+      "id": 195,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-niagara-falls-canada/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:32.303550+00:00"
+    },
+    {
+      "id": 194,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-nellore/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:32.101696+00:00"
+    },
+    {
+      "id": 193,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-navi-mumbai/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:31.801874+00:00"
+    },
+    {
+      "id": 192,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-nashik/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:30.883740+00:00"
+    },
+    {
+      "id": 191,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-mumbai/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:30.621294+00:00"
+    },
+    {
+      "id": 190,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-michigan/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:30.426074+00:00"
+    },
+    {
+      "id": 189,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-nagpur/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:30.144390+00:00"
+    },
+    {
+      "id": 188,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-muscat-oman/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:29.943705+00:00"
+    },
+    {
+      "id": 187,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-mysore/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:29.751731+00:00"
+    },
+    {
+      "id": 186,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-mulund/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:29.477622+00:00"
+    },
+    {
+      "id": 185,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-montreal-canada/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:29.275884+00:00"
+    },
+    {
+      "id": 184,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-melbourne-australia/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:28.603404+00:00"
+    },
+    {
+      "id": 183,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-mecca-saudi-arabia/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:28.380652+00:00"
+    },
+    {
+      "id": 182,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-ludhiana/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:28.103754+00:00"
+    },
+    {
+      "id": 181,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-lucknow/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:27.906220+00:00"
+    },
+    {
+      "id": 180,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-kurnool/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:27.707436+00:00"
+    },
+    {
+      "id": 179,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-london-united-kingdom/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:27.440639+00:00"
+    },
+    {
+      "id": 178,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-marathahalli/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:27.250530+00:00"
+    },
+    {
+      "id": 177,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-kuwait/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:26.967612+00:00"
+    },
+    {
+      "id": 176,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-los-angeles-california/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:26.772609+00:00"
+    },
+    {
+      "id": 175,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-kenya/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:25.930357+00:00"
+    },
+    {
+      "id": 174,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-khordha/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:25.656886+00:00"
+    },
+    {
+      "id": 173,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-kolhapur/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:25.460528+00:00"
+    },
+    {
+      "id": 172,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-kozhikode/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:25.190463+00:00"
+    },
+    {
+      "id": 171,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-kolkata/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:24.993011+00:00"
+    },
+    {
+      "id": 170,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-kansas-city/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:24.707721+00:00"
+    },
+    {
+      "id": 169,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-kochi/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:24.514569+00:00"
+    },
+    {
+      "id": 168,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-karimnagar/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:24.312760+00:00"
+    },
+    {
+      "id": 167,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-kanpur/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:23.391245+00:00"
+    },
+    {
+      "id": 166,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-jersey-city-new-jersey/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:23.189193+00:00"
+    },
+    {
+      "id": 165,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-kakinada/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:22.929710+00:00"
+    },
+    {
+      "id": 164,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-jalgaon/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:22.733630+00:00"
+    },
+    {
+      "id": 163,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-kalyan/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:22.438817+00:00"
+    },
+    {
+      "id": 162,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-jeddah-saudi-arabia/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:22.232316+00:00"
+    },
+    {
+      "id": 161,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-kannur/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:22.040675+00:00"
+    },
+    {
+      "id": 160,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-jaipur/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:21.760071+00:00"
+    },
+    {
+      "id": 159,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-jamshedpur/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:21.557780+00:00"
+    },
+    {
+      "id": 158,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-istanbul-turkey/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:20.805284+00:00"
+    },
+    {
+      "id": 157,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-indore/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:20.611423+00:00"
+    },
+    {
+      "id": 156,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-ireland/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:20.329993+00:00"
+    },
+    {
+      "id": 155,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-hong-kong/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:20.137909+00:00"
+    },
+    {
+      "id": 154,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-indonesia/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:19.946390+00:00"
+    },
+    {
+      "id": 153,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-houston-texas/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:19.668547+00:00"
+    },
+    {
+      "id": 152,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-hobart-australia/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:19.474935+00:00"
+    },
+    {
+      "id": 151,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-hyderabad/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:19.214915+00:00"
+    },
+    {
+      "id": 150,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-halifax-canada/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:18.581169+00:00"
+    },
+    {
+      "id": 149,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-guwahati/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:18.274817+00:00"
+    },
+    {
+      "id": 148,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-gulbarga/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:18.075209+00:00"
+    },
+    {
+      "id": 147,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-goregaon/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:17.879454+00:00"
+    },
+    {
+      "id": 146,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-guntur/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:17.600353+00:00"
+    },
+    {
+      "id": 145,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-gurgaon/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:17.399992+00:00"
+    },
+    {
+      "id": 144,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-germany/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:17.136462+00:00"
+    },
+    {
+      "id": 143,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-ghaziabad/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:16.938910+00:00"
+    },
+    {
+      "id": 142,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-giza-egypt/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:16.541561+00:00"
+    },
+    {
+      "id": 141,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-faridabad/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:16.266892+00:00"
+    },
+    {
+      "id": 140,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-gaziantep-turkey/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:16.067647+00:00"
+    },
+    {
+      "id": 139,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-ernakulam/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:15.745527+00:00"
+    },
+    {
+      "id": 138,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-chittoor/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:15.547442+00:00"
+    },
+    {
+      "id": 137,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-dublin/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:15.287376+00:00"
+    },
+    {
+      "id": 136,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-chennai/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:15.090773+00:00"
+    },
+    {
+      "id": 135,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-dharwad/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:14.804078+00:00"
+    },
+    {
+      "id": 134,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-doha-qatar/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:14.606915+00:00"
+    },
+    {
+      "id": 133,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-delhi/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:14.409456+00:00"
+    },
+    {
+      "id": 132,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-dubai-united-arab-emirates/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:14.130045+00:00"
+    },
+    {
+      "id": 131,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-chandigarh/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:13.785637+00:00"
+    },
+    {
+      "id": 130,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-dallas-texas/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:13.422431+00:00"
+    },
+    {
+      "id": 129,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-chembur/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:13.223573+00:00"
+    },
+    {
+      "id": 128,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-coimbatore/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:12.923447+00:00"
+    },
+    {
+      "id": 127,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-canberra-australia/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:12.724232+00:00"
+    },
+    {
+      "id": 126,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-chicago-illinois/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:12.526630+00:00"
+    },
+    {
+      "id": 125,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-canada/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:12.062283+00:00"
+    },
+    {
+      "id": 124,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-bhubaneswar/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:11.394411+00:00"
+    },
+    {
+      "id": 123,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-cairo-egypt/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:11.125281+00:00"
+    },
+    {
+      "id": 122,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-boston/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:10.933873+00:00"
+    },
+    {
+      "id": 121,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-bhopal/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:10.647900+00:00"
+    },
+    {
+      "id": 120,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-belgaum/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:10.444464+00:00"
+    },
+    {
+      "id": 119,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-brisbane-australia/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:10.248156+00:00"
+    },
+    {
+      "id": 118,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-beirut-lebanon/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:09.980390+00:00"
+    },
+    {
+      "id": 117,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-bhilai/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:09.784030+00:00"
+    },
+    {
+      "id": 116,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-bangladesh/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:08.948466+00:00"
+    },
+    {
+      "id": 115,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-australia/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:08.696925+00:00"
+    },
+    {
+      "id": 114,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-ankara-turkey/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:08.421878+00:00"
+    },
+    {
+      "id": 113,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-bangalore/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:08.230330+00:00"
+    },
+    {
+      "id": 112,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-baghdad-iraq/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:08.031613+00:00"
+    },
+    {
+      "id": 111,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-atlanta-georgia/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:07.761796+00:00"
+    },
+    {
+      "id": 110,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-anantapur/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:07.566515+00:00"
+    },
+    {
+      "id": 109,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-aurangabad/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:07.284763+00:00"
+    },
+    {
+      "id": 108,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-andheri/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:07.082878+00:00"
+    },
+    {
+      "id": 107,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-amravati/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:06.540248+00:00"
+    },
+    {
+      "id": 106,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-alexandria-egypt/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:06.269861+00:00"
+    },
+    {
+      "id": 105,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-amman-jordan/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:06.076039+00:00"
+    },
+    {
+      "id": 104,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-ahmednagar/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:04.806772+00:00"
+    },
+    {
+      "id": 103,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-ahmedabad/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:04.592772+00:00"
+    },
+    {
+      "id": 102,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-adelaide-australia/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:04.230710+00:00"
+    },
+    {
+      "id": 101,
+      "run_id": 1,
+      "url": "https://www.excelr.com/generative-ai-course-training-in-abu-dhabi-united-arab-emirates/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:21:02.863284+00:00"
+    },
+    {
+      "id": 100,
+      "run_id": 1,
+      "url": "https://www.excelr.com/free-access/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:19:11.137861+00:00"
+    },
+    {
+      "id": 99,
+      "run_id": 1,
+      "url": "https://www.excelr.com/free-online-courses/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:19:11.020352+00:00"
+    },
+    {
+      "id": 98,
+      "run_id": 1,
+      "url": "https://www.excelr.com/free-access-to-e-learning-videos-on-trending-courses/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:19:06.953101+00:00"
+    },
+    {
+      "id": 97,
+      "run_id": 1,
+      "url": "https://www.excelr.com/forums/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:19:06.484249+00:00"
+    },
+    {
+      "id": 96,
+      "run_id": 1,
+      "url": "https://www.excelr.com/forecasting-mind-map/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:19:06.389696+00:00"
+    },
+    {
+      "id": 95,
+      "run_id": 1,
+      "url": "https://www.excelr.com/fortinet-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:19:06.280824+00:00"
+    },
+    {
+      "id": 94,
+      "run_id": 1,
+      "url": "https://www.excelr.com/forecasting/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:19:06.084812+00:00"
+    },
+    {
+      "id": 93,
+      "run_id": 1,
+      "url": "https://www.excelr.com/extracting-tweets-using-r/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:19:05.964692+00:00"
+    },
+    {
+      "id": 92,
+      "run_id": 1,
+      "url": "https://www.excelr.com/excelrs-alumni-exclusive-program-management-guru/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:19:05.866067+00:00"
+    },
+    {
+      "id": 91,
+      "run_id": 1,
+      "url": "https://www.excelr.com/excelrs-alumni-exclusive-program-tech-masters/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:19:05.555498+00:00"
+    },
+    {
+      "id": 90,
+      "run_id": 1,
+      "url": "https://www.excelr.com/excelr-transforming-professionals-into-experts-in-analytics/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:19:05.191474+00:00"
+    },
+    {
+      "id": 89,
+      "run_id": 1,
+      "url": "https://www.excelr.com/excelr-solutions-reports-on-the-importance-of-big-data/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:19:00.175721+00:00"
+    },
+    {
+      "id": 88,
+      "run_id": 1,
+      "url": "https://www.excelr.com/excelr-has-trained-more-than-10000-students-in-analytics/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:18:59.703072+00:00"
+    },
+    {
+      "id": 87,
+      "run_id": 1,
+      "url": "https://www.excelr.com/embedded-linux-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:18:59.606518+00:00"
+    },
+    {
+      "id": 86,
+      "run_id": 1,
+      "url": "https://www.excelr.com/excelr-solutions-offers-the-highest-quality-training-programs-across-a-variety-of-disciplines/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:18:59.451223+00:00"
+    },
+    {
+      "id": 85,
+      "run_id": 1,
+      "url": "https://www.excelr.com/excelr-launches-course-on-analytics-with-curriculum-of-international-standards/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:18:59.350001+00:00"
+    },
+    {
+      "id": 84,
+      "run_id": 1,
+      "url": "https://www.excelr.com/effective-project-contracting-raining/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:18:59.253297+00:00"
+    },
+    {
+      "id": 83,
+      "run_id": 1,
+      "url": "https://www.excelr.com/excelr-solutions-also-includes-the-case-studies-which-will-only-ensure-that-aspirants-are-well-poised-to-zoom-start-their-careers-as-data-scientist/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:18:59.048349+00:00"
+    },
+    {
+      "id": 82,
+      "run_id": 1,
+      "url": "https://www.excelr.com/excelr-red-hat-satellite-server-training-comprehensive-and-complete/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:18:58.949694+00:00"
+    },
+    {
+      "id": 81,
+      "run_id": 1,
+      "url": "https://www.excelr.com/events/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:18:58.853150+00:00"
+    },
+    {
+      "id": 80,
+      "run_id": 1,
+      "url": "https://www.excelr.com/eclipse-rich-client-certification-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:18:58.104076+00:00"
+    },
+    {
+      "id": 79,
+      "run_id": 1,
+      "url": "https://www.excelr.com/drupal-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:18:57.896481+00:00"
+    },
+    {
+      "id": 78,
+      "run_id": 1,
+      "url": "https://www.excelr.com/e-learning/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:18:57.677114+00:00"
+    },
+    {
+      "id": 77,
+      "run_id": 1,
+      "url": "https://www.excelr.com/dynatrace-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:18:57.576600+00:00"
+    },
+    {
+      "id": 76,
+      "run_id": 1,
+      "url": "https://www.excelr.com/dpdpa-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:18:57.445204+00:00"
+    },
+    {
+      "id": 75,
+      "run_id": 1,
+      "url": "https://www.excelr.com/duck-creek-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:18:57.247959+00:00"
+    },
+    {
+      "id": 74,
+      "run_id": 1,
+      "url": "https://www.excelr.com/docker-and-kubernetes-certification-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:18:57.119195+00:00"
+    },
+    {
+      "id": 73,
+      "run_id": 1,
+      "url": "https://www.excelr.com/dell-boomi-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:17:23.688561+00:00"
+    },
+    {
+      "id": 72,
+      "run_id": 1,
+      "url": "https://www.excelr.com/deloitte-technology-fast-50-india-2018-winner/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:17:23.169751+00:00"
+    },
+    {
+      "id": 71,
+      "run_id": 1,
+      "url": "https://www.excelr.com/databricks-certification-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:17:23.070036+00:00"
+    },
+    {
+      "id": 70,
+      "run_id": 1,
+      "url": "https://www.excelr.com/data-visualization/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:17:22.872972+00:00"
+    },
+    {
+      "id": 69,
+      "run_id": 1,
+      "url": "https://www.excelr.com/data-mining/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:16:08.990372+00:00"
+    },
+    {
+      "id": 68,
+      "run_id": 1,
+      "url": "https://www.excelr.com/data-mining-unsupervised-learning-part-4a/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:16:08.705545+00:00"
+    },
+    {
+      "id": 67,
+      "run_id": 1,
+      "url": "https://www.excelr.com/data-mining-mind-map/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:16:08.293405+00:00"
+    },
+    {
+      "id": 66,
+      "run_id": 1,
+      "url": "https://www.excelr.com/data-mining-course-training-in-riyadh-saudi-arabia/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:16:08.169699+00:00"
+    },
+    {
+      "id": 65,
+      "run_id": 1,
+      "url": "https://www.excelr.com/cyberark-corporate-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:15:30.455558+00:00"
+    },
+    {
+      "id": 64,
+      "run_id": 1,
+      "url": "https://www.excelr.com/cyber-threat-intelligence-advance-course-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:15:30.321927+00:00"
+    },
+    {
+      "id": 63,
+      "run_id": 1,
+      "url": "https://www.excelr.com/cyber-threat-hunting-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:15:29.964230+00:00"
+    },
+    {
+      "id": 62,
+      "run_id": 1,
+      "url": "https://www.excelr.com/combo-masters-program-in-data-science-and-artificial-intelligence/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:15:29.190111+00:00"
+    },
+    {
+      "id": 61,
+      "run_id": 1,
+      "url": "https://www.excelr.com/confidence-intervals-video-tutorial/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:15:28.966625+00:00"
+    },
+    {
+      "id": 60,
+      "run_id": 1,
+      "url": "https://www.excelr.com/customer-analytics/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:15:28.801077+00:00"
+    },
+    {
+      "id": 59,
+      "run_id": 1,
+      "url": "https://www.excelr.com/csm-certified-scrum-master/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:15:28.676226+00:00"
+    },
+    {
+      "id": 58,
+      "run_id": 1,
+      "url": "https://www.excelr.com/courses/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:15:28.556645+00:00"
+    },
+    {
+      "id": 57,
+      "run_id": 1,
+      "url": "https://www.excelr.com/core-python-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:15:28.455981+00:00"
+    },
+    {
+      "id": 56,
+      "run_id": 1,
+      "url": "https://www.excelr.com/collinearity-video-tutorial/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:15:27.774343+00:00"
+    },
+    {
+      "id": 55,
+      "run_id": 1,
+      "url": "https://www.excelr.com/collibra-course-certification-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:15:27.675542+00:00"
+    },
+    {
+      "id": 54,
+      "run_id": 1,
+      "url": "https://www.excelr.com/clean-code-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:15:27.540432+00:00"
+    },
+    {
+      "id": 53,
+      "run_id": 1,
+      "url": "https://www.excelr.com/cloud-computing-certification-course-training-in-pune/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:15:27.416371+00:00"
+    },
+    {
+      "id": 52,
+      "run_id": 1,
+      "url": "https://www.excelr.com/cloud-computing-certification-course-training-hyderabad/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:15:27.211071+00:00"
+    },
+    {
+      "id": 51,
+      "run_id": 1,
+      "url": "https://www.excelr.com/cloud-computing-certification-course-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:15:27.093959+00:00"
+    },
+    {
+      "id": 50,
+      "run_id": 1,
+      "url": "https://www.excelr.com/cloud-computing-certification-course-training-in-bangalore/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:15:26.951802+00:00"
+    },
+    {
+      "id": 49,
+      "run_id": 1,
+      "url": "https://www.excelr.com/classroom/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:15:26.832896+00:00"
+    },
+    {
+      "id": 48,
+      "run_id": 1,
+      "url": "https://www.excelr.com/citrix-adc-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:15:26.386049+00:00"
+    },
+    {
+      "id": 47,
+      "run_id": 1,
+      "url": "https://www.excelr.com/cisco-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:15:25.846922+00:00"
+    },
+    {
+      "id": 46,
+      "run_id": 1,
+      "url": "https://www.excelr.com/certified-cloud-security-professionals-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:15:25.721371+00:00"
+    },
+    {
+      "id": 45,
+      "run_id": 1,
+      "url": "https://www.excelr.com/change-management-webinar/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:15:25.595211+00:00"
+    },
+    {
+      "id": 44,
+      "run_id": 1,
+      "url": "https://www.excelr.com/chatgpt-prompt-engineering-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:15:25.414075+00:00"
+    },
+    {
+      "id": 43,
+      "run_id": 1,
+      "url": "https://www.excelr.com/celonis-course-certification-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:15:25.293311+00:00"
+    },
+    {
+      "id": 42,
+      "run_id": 1,
+      "url": "https://www.excelr.com/camunda-certification-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:15:25.173196+00:00"
+    },
+    {
+      "id": 41,
+      "run_id": 1,
+      "url": "https://www.excelr.com/certificate-program-in-data-analyst/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:15:25.046387+00:00"
+    },
+    {
+      "id": 40,
+      "run_id": 1,
+      "url": "https://www.excelr.com/central-limit-theorem-video-tutorial/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:15:24.687134+00:00"
+    },
+    {
+      "id": 39,
+      "run_id": 1,
+      "url": "https://www.excelr.com/certificate-program-in-business-analyst/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:15:24.580321+00:00"
+    },
+    {
+      "id": 38,
+      "run_id": 1,
+      "url": "https://www.excelr.com/business-case-writing/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:15:22.871322+00:00"
+    },
+    {
+      "id": 37,
+      "run_id": 1,
+      "url": "https://www.excelr.com/c-rust-wasm-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:15:22.774682+00:00"
+    },
+    {
+      "id": 36,
+      "run_id": 1,
+      "url": "https://www.excelr.com/businesses-must-be-able-to-use-this-data-to-their-benefit-and-the-training-offered-through-this-provider-allows-them-to-do-so-announces-excelrcom/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:15:22.555712+00:00"
+    },
+    {
+      "id": 35,
+      "run_id": 1,
+      "url": "https://www.excelr.com/business-analytics/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:15:22.457905+00:00"
+    },
+    {
+      "id": 34,
+      "run_id": 1,
+      "url": "https://www.excelr.com/brocade-associate-san-administrator-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:13:25.058826+00:00"
+    },
+    {
+      "id": 33,
+      "run_id": 1,
+      "url": "https://www.excelr.com/boot-camp-on-agile-scrum-project-management-in-kuala-lumpur-malaysia/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:13:24.935222+00:00"
+    },
+    {
+      "id": 32,
+      "run_id": 1,
+      "url": "https://www.excelr.com/bluecat-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:13:24.677483+00:00"
+    },
+    {
+      "id": 31,
+      "run_id": 1,
+      "url": "https://www.excelr.com/basic-statistics-mind-map/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:12:09.143181+00:00"
+    },
+    {
+      "id": 30,
+      "run_id": 1,
+      "url": "https://www.excelr.com/aws-solution-architect-certification-training-in-doha-qatar/",
+      "status": null,
+      "error_type": "ReadTimeout",
+      "message": "",
+      "retries": 3,
+      "created_at": "2026-09-09T19:08:50.112784+00:00"
+    },
+    {
+      "id": 29,
+      "run_id": 1,
+      "url": "https://www.excelr.com/aws-solution-architect-certification-training-in-bhopal/",
+      "status": null,
+      "error_type": "ReadTimeout",
+      "message": "",
+      "retries": 3,
+      "created_at": "2026-09-09T19:06:21.372725+00:00"
+    },
+    {
+      "id": 28,
+      "run_id": 1,
+      "url": "https://www.excelr.com/aws-solution-architect-certification-training-in-abu-dhabi-united-arab-emirates/",
+      "status": null,
+      "error_type": "ReadTimeout",
+      "message": "",
+      "retries": 3,
+      "created_at": "2026-09-09T19:03:55.168388+00:00"
+    },
+    {
+      "id": 27,
+      "run_id": 1,
+      "url": "https://www.excelr.com/aviation-analytics-course-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:01:45.637590+00:00"
+    },
+    {
+      "id": 26,
+      "run_id": 1,
+      "url": "https://www.excelr.com/augmented-reality-ar-virtual-reality-vr/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:01:41.359844+00:00"
+    },
+    {
+      "id": 25,
+      "run_id": 1,
+      "url": "https://www.excelr.com/atlassian-tools/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:01:17.805639+00:00"
+    },
+    {
+      "id": 24,
+      "run_id": 1,
+      "url": "https://www.excelr.com/artificial-intelligence-smarter-than-humanly-possible/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T19:00:52.139980+00:00"
+    },
+    {
+      "id": 23,
+      "run_id": 1,
+      "url": "https://www.excelr.com/artificial-intelligence-ai-course-training-in-san-francisco-california/",
+      "status": null,
+      "error_type": "ReadTimeout",
+      "message": "",
+      "retries": 3,
+      "created_at": "2026-09-09T18:59:08.862399+00:00"
+    },
+    {
+      "id": 22,
+      "run_id": 1,
+      "url": "https://www.excelr.com/appdynamics-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T18:56:32.658279+00:00"
+    },
+    {
+      "id": 21,
+      "run_id": 1,
+      "url": "https://www.excelr.com/apache-maven-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T18:56:32.522892+00:00"
+    },
+    {
+      "id": 20,
+      "run_id": 1,
+      "url": "https://www.excelr.com/angular-course-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T18:56:32.120780+00:00"
+    },
+    {
+      "id": 19,
+      "run_id": 1,
+      "url": "https://www.excelr.com/ansible-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T18:56:31.984381+00:00"
+    },
+    {
+      "id": 18,
+      "run_id": 1,
+      "url": "https://www.excelr.com/anova-video-tutorial/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T18:56:31.860052+00:00"
+    },
+    {
+      "id": 17,
+      "run_id": 1,
+      "url": "https://www.excelr.com/all-courses/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T18:56:31.756645+00:00"
+    },
+    {
+      "id": 16,
+      "run_id": 1,
+      "url": "https://www.excelr.com/anova-table-video-tutorial/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T18:56:31.399984+00:00"
+    },
+    {
+      "id": 15,
+      "run_id": 1,
+      "url": "https://www.excelr.com/agile-pm-certification-dsdm-atern/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T18:56:31.300797+00:00"
+    },
+    {
+      "id": 14,
+      "run_id": 1,
+      "url": "https://www.excelr.com/analytics-certifications/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T18:56:31.170601+00:00"
+    },
+    {
+      "id": 13,
+      "run_id": 1,
+      "url": "https://www.excelr.com/afc-excelr/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T18:56:30.849206+00:00"
+    },
+    {
+      "id": 12,
+      "run_id": 1,
+      "url": "https://www.excelr.com/agile-implementation/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T18:56:30.730914+00:00"
+    },
+    {
+      "id": 11,
+      "run_id": 1,
+      "url": "https://www.excelr.com/agentic-ai-course/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T18:56:30.425079+00:00"
+    },
+    {
+      "id": 10,
+      "run_id": 1,
+      "url": "https://www.excelr.com/advanced-regression-technique/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T18:56:29.794267+00:00"
+    },
+    {
+      "id": 9,
+      "run_id": 1,
+      "url": "https://www.excelr.com/advanced-digital-marketing/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T18:56:00.255281+00:00"
+    },
+    {
+      "id": 8,
+      "run_id": 1,
+      "url": "https://www.excelr.com/advanced-digital-marketing-training-kuala-lumpur-malaysia/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T18:56:00.094921+00:00"
+    },
+    {
+      "id": 7,
+      "run_id": 1,
+      "url": "https://www.excelr.com/advanced-analytics-deep-learning-using-r-python/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T18:55:57.764564+00:00"
+    },
+    {
+      "id": 6,
+      "run_id": 1,
+      "url": "https://www.excelr.com/about-tableau/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T18:55:57.473360+00:00"
+    },
+    {
+      "id": 5,
+      "run_id": 1,
+      "url": "https://www.excelr.com/5g-certification-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T18:55:57.367622+00:00"
+    },
+    {
+      "id": 4,
+      "run_id": 1,
+      "url": "https://www.excelr.com/adobe-cq5-training/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T18:55:57.221400+00:00"
+    },
+    {
+      "id": 3,
+      "run_id": 1,
+      "url": "https://www.excelr.com/academia-to-industry-the-transition/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T18:55:57.098861+00:00"
+    },
+    {
+      "id": 2,
+      "run_id": 1,
+      "url": "https://www.excelr.com/20-pmi-pmp-sample-practise-questions-you-shouldnt-ignore-to-learn/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T18:55:56.995888+00:00"
+    },
+    {
+      "id": 1,
+      "run_id": 1,
+      "url": "https://www.excelr.com/activity/",
+      "status": null,
+      "error_type": "AttributeError",
+      "message": "'NoneType' object has no attribute 'get'",
+      "retries": 0,
+      "created_at": "2026-09-09T18:55:56.741036+00:00"
+    }
+  ]
+}
