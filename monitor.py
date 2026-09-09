@@ -3,7 +3,7 @@ Website Monitor
 Level-2 website change monitoring system.
 
 Target:
-    https://sproutandsoil.com/
+    https://www.excelr.com/
 
 Designed to run locally or inside GitHub Actions.
 
